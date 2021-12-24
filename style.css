@@ -1,0 +1,23 @@
+.oi{
+  color: aquamarine;
+  position: relative;
+  width: 450px;
+  margin: 100px auto 0;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+body{
+  margin:0;
+  padding: 0;
+  background: rgb(86, 148, 127);
+  font-family: sans-serif;
+}
+
+ul li{
+  background: rgba(90, 192, 178, 0.842);
+  padding: 10px 20px;
+  color: rgb(255, 255, 255);
+  margin: 5px 0;
+  transition: .5s; 
+}
